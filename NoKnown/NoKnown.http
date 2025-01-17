@@ -1,0 +1,6 @@
+@NoKnown_HostAddress = http://localhost:5197
+
+GET {{NoKnown_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
